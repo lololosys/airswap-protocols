@@ -36,6 +36,6 @@
   "dependencies": {
     "@airswap/transfers": "1.1.4",
     "@airswap/types": "3.5.17",
-    "@openzeppelin/contracts": "^3.3.0"
+    "@openzeppelin/contracts": "^4.8.3"
   }
 }
