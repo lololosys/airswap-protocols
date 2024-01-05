@@ -27,7 +27,7 @@
     "@airswap/constants": "0.4.0",
     "@airswap/types": "3.5.17",
     "@uniswap/token-lists": "^1.0.0-beta.24",
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "eth-contract-metadata": "^1.12.1",
     "ethereumjs-abi": "^0.6.8",
     "ethers": "^5.0.25"
