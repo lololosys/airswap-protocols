@@ -30,7 +30,7 @@
     "axios": "^0.21.1",
     "eth-contract-metadata": "^1.12.1",
     "ethereumjs-abi": "^0.6.8",
-    "ethers": "^5.0.25"
+    "ethers": "^6.0.0"
   },
   "devDependencies": {
     "mocha": "^7.1.0",
