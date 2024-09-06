@@ -28,8 +28,8 @@
     "@airswap/types": "3.5.17",
     "@types/ethereumjs-util": "^6.1.0",
     "eth-sig-util": "^3.0.0",
-    "ethereumjs-util": "^6.2.0",
-    "ethers": "^5.0.25"
+    "ethereumjs-util": "^7.0.2",
+    "ethers": "^5.1.0"
   },
   "devDependencies": {
     "@types/mocha": "^7.0.1",
