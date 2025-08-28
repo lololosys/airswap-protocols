@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@airswap/constants": "0.4.0",
-    "eth-sig-util": "2.5.3",
+    "eth-sig-util": "3.0.1",
     "ethereumjs-util": "^6.1.0",
     "ethers": "^5.0.25",
     "ganache-time-traveler": "^1.0.5",
